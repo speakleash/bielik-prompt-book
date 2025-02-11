@@ -1,1 +1,0 @@
-Przykłady użycia Bielika pod klasyfikację treści.
