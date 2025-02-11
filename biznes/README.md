@@ -1,1 +1,1 @@
-Biznesowe przypadku użycia Bielika.
+Biznesowe przypadki użycia Bielika.
