@@ -1,0 +1,1 @@
+Biznesowe przypadku użycia Bielika.
