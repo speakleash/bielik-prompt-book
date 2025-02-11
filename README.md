@@ -1,2 +1,2 @@
 # prompt_book
-Speaklaesh resource of prompts from various domains
+Resource of Bielik prompts from various domains
