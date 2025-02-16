@@ -1,0 +1,53 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+#permalink:        pretty
+#relative_permalinks: true
+
+# Setup
+name:             speakleash.github.io
+title:            Bielik Prompt Book
+tagline:          'Bielik Prompt Book'
+description:      'Bielik Prompt Book'
+url:              https://speakleash.github.io
+baseurl:          /bielik-prompt-book
+relative_url:     /bielik-prompt-book
+remote_theme:     just-the-docs/just-the-docs
+color_scheme:     dark
+logo:             "/assets/images/SpeakLeash_logo.svg"
+
+author:
+  name:           'SpeakLeash'
+  url:            https://speakleash.org/
+
+paginate:         5
+
+# Custom vars
+
+aux_links:
+  "SpeakLeash on GitHub":
+    - "//github.com/speakleash"
+
+github:
+  repo:           https://github.com/speakleash/bielik-prompt-book
+
+plugins:
+  - jekyll-gist
+  - jekyll-coffeescript
+  - jekyll-seo-tag
+
+
+#ga_tracking: XXXXXXXXXXXX # Google Analytics tracking code
+#ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
+
+# defaults:
+#   -
+#     scope:
+#       path: "" # an empty string here means all files in the project
+#     values:
+#       layout: "default"
+
+#theme: jekyll-theme-slate
+#theme: minimal-mistakes-jekyll
