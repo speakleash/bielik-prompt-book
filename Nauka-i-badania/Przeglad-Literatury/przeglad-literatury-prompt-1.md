@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Przeglad Literatury prompt 1
-parent: Przeglad Literatury
+title: Przegląd Literatury prompt 1
+parent: Przegląd Literatury
 nav_order: 1
-description: "Przeglad Literatury prompt 1"
+description: "Przegląd Literatury prompt 1"
 permalink: /nauka-i-badania/przeglad-literatury/przeglad-literatury-prompt-1
 ---
 
-# Przeglad Literatury prompt 1
+# Przegląd Literatury prompt 1
