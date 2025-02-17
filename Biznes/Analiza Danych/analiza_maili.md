@@ -1,3 +1,12 @@
+---
+layout: default
+title: Analiza Maili
+parent: Analiza Danych
+nav_order: 1
+description: "Analiza Maili"
+permalink: /biznes/analiza-danych/analiza-maili
+---
+
 # Przykładowe prompty do analizy maili
 
 ## 1. Analiza sentymentu
