@@ -6,8 +6,6 @@ description: "Bielik prompt book"
 permalink: /
 ---
 
-# [Bielik prompt book](https://github.com/speakleash/bielik-prompt-book)
-
 <center><img src="{{ site.relative_url }}/assets/images/SpeakLeash_logo.svg" alt="speakleash" width="500" /></center>
 
 Zbiór wyselekcjonowanych promptów do różnych zastosowań, pogrupowanych tematycznie dla łatwiejszego wykorzystania.
