@@ -6,7 +6,7 @@ nav_order: 7
 description: "Ochrona zdrowia"
 permalink: /ochrona-zdrowia
 ---
-### 🏥 Ochrona Zdrowia
+# 🏥 Ochrona Zdrowia
 - **Diagnostyka** - Prompty do wsparcia procesu diagnostycznego
 - **Dokumentacja Medyczna** - Prompty do tworzenia i analizy dokumentacji medycznej
 - **Edukacja Pacjenta** - Prompty do tworzenia materiałów edukacyjnych dla pacjentów
