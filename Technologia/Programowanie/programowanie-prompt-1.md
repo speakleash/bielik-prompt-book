@@ -8,3 +8,7 @@ permalink: /technologia/programowanie/programowanie-prompt-1
 ---
 
 # Programowanie prompt 1
+
+```
+Hello programowanie
+```
