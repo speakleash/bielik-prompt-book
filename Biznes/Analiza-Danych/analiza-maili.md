@@ -13,7 +13,7 @@ permalink: /biznes/analiza-danych/analiza-maili
 
 Prompt do analizy ogólnego wydźwięku wiadomości:
 
-```prompt
+```
 Jako specjalista od analizy zachowań klientów przeanalizuj poniższą wiadomość e-mail, 
 dzieląc ją na logiczne fragmenty (np. zdania, akapity lub kluczowe sekcje).
 
