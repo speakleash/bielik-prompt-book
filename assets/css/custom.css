@@ -1,0 +1,13 @@
+/* Force sidebar to stick to the left */
+.side-bar {
+    position: fixed;
+    left: 0;
+    top: 0;
+    height: 100vh;
+}
+
+/* Ensure main content is properly aligned */
+.main-content {
+    margin-left: 300px; /* Adjust if needed */
+    max-width: 900px; /* Adjust for better alignment */
+}
