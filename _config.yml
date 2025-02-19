@@ -38,6 +38,12 @@ plugins:
   - jekyll-coffeescript
   - jekyll-seo-tag
 
+just_the_docs:
+  search_label: "Szukaj"
+  back_to_top: "Powrót na górę"
+  back_to_top_text: "Powrót na górę strony"
+  table_of_contents: "Spis treści"
+
 
 #ga_tracking: XXXXXXXXXXXX # Google Analytics tracking code
 #ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
